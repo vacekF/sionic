@@ -1,0 +1,170 @@
+{
+	"animations": [
+    {
+      "weekday": "ANIMATION1",
+      "title": "Product Demo",
+      "description": "Animation was developed using 3DMAX, PHOTOSHOP and FLASHMX in 2005",
+	  "video": "video/demoAnimation.mp4"
+    }, 
+	{
+      "weekday": "ANIMATION2",
+      "title": "CITI INTRO",
+      "description": "Animation was developed using 3DMAX, PHOTOSHOP and FLASH2004 in 2014",
+	  "video": "video/citiOne.mp4" 
+    },
+	{
+      "weekday": "ANIMATION3",
+      "title": "SPINNING",
+      "description": "Animation was developed using 3DMAX, PHOTOSHOP and FLASH2004 in 2014-2016",
+	  "video": "video/test.mp4" 
+    }
+  ],
+  "calendar": [
+    {
+      "weekday": "FLASH",
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore",
+      "schedule": [
+        {
+          "time": "1994-present",
+          "shortname": "Image 1",
+          "artist": "Lorem ipsum dolor sit amet",
+          "room": "Lorem ipsum dolor sit amet",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+          "title": "Lorem ipsum dolor sit amet"
+        }, {
+          "time": "1994-present",
+          "shortname": "Image 1",
+          "name": "Lorem ipsum dolor sit amet",
+          "room": "Lorem ipsum dolor sit amet",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+          "title": "Lorem ipsum dolor sit amet"
+        },{
+          "time": "1994-present",
+          "room": "Lorem ipsum dolor sit amet",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+          "title": "Lorem ipsum dolor sit amet"
+        }
+      ]
+    }, {
+      "weekday": "HTML5",
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+      "schedule": [
+        {
+          "time": "2006-present",
+          "shortname": "Image 1",
+          "artist": "Lorem ipsum dolor sit amet",
+          "room": "Lorem ipsum dolor sit amet",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+          "title": "Lorem ipsum dolor sit amet"
+        },{
+          "time": "2006-present",
+          "room": "Lorem ipsum dolor sit amet",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+          "title": "Lorem ipsum dolor sit amet"
+        },{
+          "time": "2006-present",
+          "shortname": "Image 1",
+          "artist": "Lorem ipsum dolor sit amet",
+          "room": "Lorem ipsum dolor sit amet",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+          "title": "Lorem ipsum dolor sit amet"
+        }
+      ]
+    }, {
+      "weekday": "CANVAS",
+      "schedule": [
+        {
+          "time": "2006-present",
+          "shortname": "Image 1",
+          "artist": "Lorem ipsum dolor sit amet",
+          "room": "Lorem ipsum dolor sit amet",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+          "title": "Lorem ipsum dolor sit amet"
+        },{
+          "time": "2006-present",
+          "shortname": "Image 1",
+          "artist": "Lorem ipsum dolor sit amet",
+          "room": "Lorem ipsum dolor sit amet",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+          "title": "Lorem ipsum dolor sit amet"
+        }
+      ]
+    }, {
+      "weekday": "WEBGL",
+      "schedule": [
+        {
+          "time": "2009-present",
+          "shortname": "Image 1",
+          "artist": "Lorem ipsum dolor sit amet",
+          "room": "Lorem ipsum dolor sit amet",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+          "title": "Lorem ipsum dolor sit amet"
+        },{
+          "time": "2009-present",
+          "shortname": "Image 1",
+          "artist": "Lorem ipsum dolor sit amet",
+          "room": "Lorem ipsum dolor sit amet",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+          "title": "Lorem ipsum dolor sit amet"
+        },{
+          "time": "2009-present",
+          "shortname": "Image 1",
+          "artist": "Lorem ipsum dolor sit amet",
+          "room": "Lorem ipsum dolor sit amet",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+          "title": "Lorem ipsum dolor sit amet"
+        }
+      ]
+    }
+  ],
+ "artists": [
+    {
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+      "shortname": "Building 1",
+      "name": "Building 1 test",
+      "reknown": "TORONTO"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+      "shortname": "Building 2",
+      "name": "Building 2 test",
+      "reknown": "TORONTO"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+      "shortname": "Building 3",
+      "name": "Building 3 test",
+      "reknown": "TORONTO"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+      "shortname": "Building 4",
+      "name": "Building 4",
+      "reknown": "TORONTO"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+      "shortname": "Building 5",
+      "name": "Building 5 test",
+      "reknown": "TORONTO"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+      "shortname": "Building 6",
+      "name": "Building 6",
+      "reknown": "TORONTO"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+      "shortname": "Building 7",
+      "name": "Building 7 test",
+      "reknown": "TORONTO"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+      "shortname": "Building 8",
+      "name": "Building 8 test",
+      "reknown": "TORONTO"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nescio quo modo praetervolavit oratio. Efficiens dici potest. Duo Reges: constructio interrete. Aliter homines, aliter philosophos loqui putas oportere? Sic consequentibus vestris sublatis prima tolluntur. Quae cum essent dicta, discessimus. Sint modo partes vitae beatae. Nondum autem explanatum satis, erat, quid maxime natura vellet. Ait enim se, si uratur, Quam hoc suave! dicturum. Sapiens autem semper beatus est et est aliquando in dolore.",
+      "shortname": "Building 9",
+      "name": "Building 9 test",
+      "reknown": "TORONTO"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<ion-header-bar class="bar-positive">
+  <h2 class="title">More Info</h2>
+</ion-header-bar>
+<ion-view title="ANIMATION DETAIL">
+  <ion-content>
+    <ion-list class="list-inset">
+      <ion-item class="item-text-wrap"
+        ng-repeat="item in animations | filter: { title: whichanim }">
+          <h2>{{item.weekday}}</h2>
+          <h3>{{ item.title }}</h3>
+          <h4>{{ item.description }}</h4>
+          <p style="text-align:center"><video id="" class="" style="position: relative; margin-top: 30px; margin-left: auto; margin-right: auto; right: auto; bottom: auto;" preload="auto" width:100%; controls="controls">
+<!--source src="video/about_us.ogv"></source>
+<source src="media/about_us.webm"></source-->
+<source src="{{item.video}}"></source></video></p>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
